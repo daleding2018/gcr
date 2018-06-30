@@ -4,7 +4,7 @@ pipeline {
 
 	environment {
             RNS="iot_docker"
-            MODULE="user"
+            MODULE="auth"
 	    SCRIPT_PATH="/usr/local/MavenRepository/iot"
 	}
 
