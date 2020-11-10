@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/kube-discovery-amd64:1.0
+FROM us.gcr.io/k8s-artifacts-prod/ingress-nginx/controller:v0.34.1
